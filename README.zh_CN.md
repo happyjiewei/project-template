@@ -8,7 +8,7 @@ README 中文 | [English](README.md)
 
 一些项目状态的图标可以参考 https://shields.io/#/
 
-
+![java](https://img.shields.io/badge/java-1.7+-red)
 
 ## 预览效果(可选)
 
